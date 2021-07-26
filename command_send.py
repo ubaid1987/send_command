@@ -20,3 +20,4 @@ def send_command(command):
     err = stderr.read().decode()
 
 send_command(ping)
+send_command(hostname)
