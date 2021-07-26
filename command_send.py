@@ -21,4 +21,3 @@ def send_command(command):
 
 send_command(ping)
 send_command(hostname)
-send_command(hostname)
