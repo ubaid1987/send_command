@@ -19,4 +19,4 @@ def send_command(command):
     print(stdout.read().decode())
     err = stderr.read().decode()
 
-send_command(hostname)
+send_command(ping)
