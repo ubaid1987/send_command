@@ -1,6 +1,4 @@
-
 # Send Command
-
 This is my first repository uploaded from PyCharm
 
 In this project I have created 3 scripts
