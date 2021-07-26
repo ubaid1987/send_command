@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Send Command
+=======
+# send_command
+>>>>>>> Create README.md
 This is my first repository uploaded from PyCharm
 
 In this project I have created 3 scripts
