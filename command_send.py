@@ -3,7 +3,7 @@ from rich import print, pretty
 pretty.install()
 
 # Command Definition
-hostname = "ansible --version"
+hostname = "hostname"
 ping = "ping ubuntu-vm"
 
 # Send Command function
@@ -19,5 +19,5 @@ def send_command(command):
     print(stdout.read().decode())
     err = stderr.read().decode()
 
-send_command(ping)
+#send_command(ping)
 send_command(hostname)
